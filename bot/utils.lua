@@ -526,3 +526,5 @@ function unescape_html(str)
   end)
   return new
 end
+{stickertophotos'imagetosticker'}
+end
